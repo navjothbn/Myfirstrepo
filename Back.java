@@ -25,7 +25,7 @@ JFrame f=new JFrame("my graphics");
 //JButton b=new JButton("click");
 //b.setBounds(10,50,10,40);
 ImageIcon icon=new ImageIcon("n.jpg");
-JLabel l=new JLabel("hi");
+JLabel l=new JLabel("hi this is my first repo");
 l.setBounds(300,500,600,200);
 f.setIconImage(icon.getImage());
 f.setSize(600,400);
